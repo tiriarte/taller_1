@@ -1,0 +1,13 @@
+tipo:Tipo C:20000:10.0
+tipo:Tipo B:12000:800.0
+tipo:Tipo A:10000:900.0
+tipo:Tipo D:15000:100.0
+surtidor:Samuel:Tipo C:0.0:Tipo B:0.0:Tipo A:0.0:Tipo D:0.0
+surtidor:Eduardo:Tipo C:0.0:Tipo B:0.0:Tipo A:0.0:Tipo D:0.0
+surtidor:Samuel:Tipo C:0.0:Tipo B:0.0:Tipo A:0.0:Tipo D:0.0
+surtidor:Esteban:Tipo C:0.0:Tipo B:0.0:Tipo A:0.0:Tipo D:0.0
+empleado:Samuel:0
+empleado:Eduardo:0
+empleado:Jesús:0
+empleado:Sara:0
+empleado:Esteban:0
